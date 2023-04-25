@@ -53,7 +53,7 @@
 
 ### HTML
 
-![Neon City HTML Code Example](HTML.png)
+![Neon City HTML Code Example](html.png)
 
 
 🎉 And that's it! You're now all set to enjoy the stunning beauty and productivity boost that Neon City brings to your coding environment. Happy coding!
