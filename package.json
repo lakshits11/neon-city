@@ -1,0 +1,29 @@
+{
+  "name": "neon-city",
+  "displayName": "Neon City",
+  "publisher": "lakshits11",
+  "icon": "neoncity-logo.png",
+  "author": {
+    "name": "Lakshit Somani",
+    "email": "lakshits11@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakshits11/neon-city.git"
+  },
+  "description": "Discover the mesmerizing allure of the urban nightscape with Neon City, where sophistication meets the electric energy of the city streets.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon City-color-theme.json"
+      }
+    ]
+  }
+}
