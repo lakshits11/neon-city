@@ -57,3 +57,5 @@
 
 
 🎉 And that's it! You're now all set to enjoy the stunning beauty and productivity boost that Neon City brings to your coding environment. Happy coding!
+
+NOTE: This theme is a side project, hence you may face some minor coloring/theming issues. 
