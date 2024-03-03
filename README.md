@@ -1,5 +1,7 @@
 # Neon City: A Premium, Classy Theme for VS Code ⚡
 
+<img src="./header.png" style="border-radius:30px;height:400px">
+
 🌃 Welcome to Neon City, the ultimate theme for your VS Code editor! With its stunning purple hues and sleek design, Neon City is the perfect choice for those looking for a premium and classy look for their coding environment.
 
 ## Beauty and Elegance
@@ -44,18 +46,14 @@
 ## Looks ✨
 
 ### JavaScript
-
-![Neon City JavaScript Code Example](javascript.png)
+<img src="javascript.png" style="border-radius:10px">
 
 ### Python
-
-![Neon City Python Code Example](python.png)
+<img src="python.png" style="border-radius:10px">
 
 ### HTML
-
-![Neon City HTML Code Example](html.png)
-
+<img src="html.png" style="border-radius:10px">
 
 🎉 And that's it! You're now all set to enjoy the stunning beauty and productivity boost that Neon City brings to your coding environment. Happy coding!
 
-NOTE: This theme is a side project, hence you may face some minor coloring/theming issues. 
+NOTE: This theme is a side project, hence you may face some minor coloring/theming issues.

@@ -2,7 +2,7 @@
   "name": "neon-city",
   "displayName": "Neon City",
   "publisher": "lakshits11",
-  "icon": "neoncity-logo.jpg",
+  "icon": "logo-modified.png",
   "author": {
     "name": "Lakshit Somani",
     "email": "lakshits11@gmail.com"
@@ -12,7 +12,7 @@
     "url": "https://github.com/lakshits11/neon-city.git"
   },
   "description": "Discover the mesmerizing allure of the urban nightscape with Neon City, where sophistication meets the electric energy of the city streets.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.50.0"
   },
